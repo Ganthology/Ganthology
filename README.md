@@ -4,7 +4,7 @@ I am currently taking my **Bachelor Degree in Statistics** at the Universiti Put
 - 🔭 I’m currently working on *The Odin Project Ruby on Rails curriculum* and also *The Complete Ruby on Rails Developer Course* on Udemy
 - 🌱 I’m currently learning the *Ruby language, Ruby on Rails framework, Computer Science subjects*
 - 🐣 I'm also learning other web development essentials like *HTML, CSS* and *Javascript(Node.js, Elixir.js, React.js)*
-- ⛳ My current short term goal is to master Ruby on Rails and get an internship for my summer break this year. My long term goal would be having a software engineer career and help more people to start planning their goals and make progress towards it.
+- ⛳ My current short term goal is to master Ruby on Rails and get an internship for my summer break this year. My long term goal would be having a software engineering career and help more people to start planning their goals and make progress towards their dreams.
 - 📫 How to reach me: my [LinkedIn profile](https://www.linkedin.com/in/boon-kit-gan-64349b164/)
 
 
