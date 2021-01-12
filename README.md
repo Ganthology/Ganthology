@@ -11,7 +11,8 @@ I am currently taking my **Bachelor Degree in Statistics** at the Universiti Put
 ### Here's my Github Stats
 ![Boon Kit's github stats](https://github-readme-stats.vercel.app/api?username=Ganthology&show_icons=true)
 ### Here are the top languages that I used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganthology&layout=compact)](https://github.com/Ganthology/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganthology)](https://github.com/Ganthology/github-readme-stats)
+[![Ganthology's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ganthology)](https://github.com/Ganthology/github-readme-stats)
 <!--
 **Ganthology/Ganthology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
