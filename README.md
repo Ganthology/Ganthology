@@ -13,7 +13,6 @@ I am currently taking my **Bachelor Degree in Statistics** at the Universiti Put
 ### Here are the top languages that I used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganthology)](https://github.com/Ganthology/github-readme-stats)
 
-[![Ganthology's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ganthology)](https://github.com/Ganthology/github-readme-stats)
 <!--
 **Ganthology/Ganthology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
