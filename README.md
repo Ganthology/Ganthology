@@ -4,7 +4,7 @@ I am currently taking my **Bachelor Degree in Statistics with Minor in Computer 
 - 🔭 I’m currently reading Hands-on Machine Learning by Aurelien Geron
 - 🌱 I’m currently learning the *Data Science concepts and libraries, Machine Learning algorithms, Computer Science subjects*
 - 🐣 I can code in Python, Ruby, Java, C, HTML and Javascript.
-- 🐣 I have some basic skills in HTML, CSS, Javascript.*
+- 🐣 I have some basic skills in HTML, CSS, Javascript.
 - ⛳ My current short term goal is to build my Data Science portfolio and get an internship for my summer break this year. My long term goal would be having a Data Science or Machine Learning career and help more people to start planning their goals and make progress towards their dreams.
 - 📫 How to reach me: my [LinkedIn profile](https://www.linkedin.com/in/boon-kit-gan-64349b164/)
 
