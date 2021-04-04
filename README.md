@@ -1,10 +1,11 @@
 ### Hello there, I am Boon Kit 😊
-I am currently taking my **Bachelor Degree in Statistics** at the Universiti Putra Malaysia.
+I am currently taking my **Bachelor Degree in Statistics with Minor in Computer Science** at the Universiti Putra Malaysia.
 - 🤓 I enjoy reading and challenge myself to learn new skills
-- 🔭 I’m currently working on *The Odin Project Ruby on Rails curriculum* and also *The Complete Ruby on Rails Developer Course* on Udemy
-- 🌱 I’m currently learning the *Ruby language, Ruby on Rails framework, Computer Science subjects*
-- 🐣 I'm also learning other web development essentials like *HTML, CSS* and *Javascript(Node.js, Elixir.js, React.js)*
-- ⛳ My current short term goal is to master Ruby on Rails and get an internship for my summer break this year. My long term goal would be having a software engineering career and help more people to start planning their goals and make progress towards their dreams.
+- 🔭 I’m currently reading Hands-on Machine Learning by Aurelien Geron
+- 🌱 I’m currently learning the *Data Science concepts and libraries, Machine Learning algorithms, Computer Science subjects*
+- 🐣 I can code in Python, Ruby, Java, C, HTML and Javascript.
+- 🐣 I have some basic skills in HTML, CSS, Javascript.*
+- ⛳ My current short term goal is to build my Data Science portfolio and get an internship for my summer break this year. My long term goal would be having a Data Science or Machine Learning career and help more people to start planning their goals and make progress towards their dreams.
 - 📫 How to reach me: my [LinkedIn profile](https://www.linkedin.com/in/boon-kit-gan-64349b164/)
 
 
