@@ -1,12 +1,11 @@
 ### Hello there, I am Boon Kit 😊
 I am currently taking my **Bachelor Degree in Statistics with Minor in Computer Science** at the Universiti Putra Malaysia.
 - 🤓 I enjoy reading and challenge myself to learn new skills
-- 🔭 I’m currently reading Hands-on Machine Learning by Aurelien Geron
-- 🌱 I’m currently learning the *Data Science concepts and libraries, Machine Learning algorithms, Computer Science subjects*
+- 🌱 I’m currently learning *iOS Development*
 - 🌱 Completed the TensorFlow Developer Professional Certificate by Deeplearning.ai on Coursera.
-- 🐣 I can code in Python, Ruby, Java, C, HTML and Javascript.
+- 🐣 I can code in Swift, Python, Ruby, Java, C, HTML and Javascript.
 - 🐣 I have some basic skills in HTML, CSS, Javascript, Java, C, SQL.
-- ⛳ My current short term goal is to build my Data Science portfolio and get an internship for my summer break this year. My long term goal would be having a career in tech industry and help more people to start planning their goals and make progress towards their dreams.
+- ⛳ My current short term goal is to get a mobile developer internship for my summer break this year (2021). My long term goal would be having a career in tech industry and help more people to start planning their goals and make progress towards their dreams.
 - 📫 How to reach me: my [LinkedIn profile](https://www.linkedin.com/in/boon-kit-gan-64349b164/)
 
 
