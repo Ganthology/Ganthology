@@ -1,4 +1,4 @@
-### Hello there, I am Boon Kit 😊
+### Hello there, I am Ray (Boon Kit) 😊
 I am currently taking my **Bachelor Degree in Statistics with Minor in Computer Science** at the Universiti Putra Malaysia.
 - 🤓 I enjoy reading and challenge myself to learn new skills
 - 🌱 I’m currently learning *iOS Development*
