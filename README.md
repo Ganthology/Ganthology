@@ -1,6 +1,6 @@
 ### Hello there, I am Ray (Boon Kit) 😊
 I am currently taking my **Bachelor Degree in Statistics with Minor in Computer Science** at the Universiti Putra Malaysia.
-- 👨‍💻 Currently a mobile developer intern under the iOS team at Agmo Studio.
+- 👨‍💻 Currently a web developer intern at **Speedhome.com**.
 - 🤓 I enjoy reading and challenge myself to learn new skills
 - 🌱 My focus is in *iOS Development*, *Mobile Development* and *Software Engineering*
 - 🌱 Completed the TensorFlow Developer Professional Certificate by Deeplearning.ai on Coursera.
