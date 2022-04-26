@@ -1,6 +1,7 @@
 ### Hello there, I am Ray (Boon Kit) 😊
 I am currently taking my **Bachelor Degree in Statistics with Minor in Computer Science** at the Universiti Putra Malaysia.
 - 👨‍💻 Currently a web developer intern at **Speedhome.com**.
+- 👨‍ Looking for full time position in Web (React) and Mobile (React Native)
 - 🤓 I enjoy reading and challenge myself to learn new skills
 - 🌱 My focus is in *iOS Development*, *Mobile Development* and *Software Engineering*
 - 🌱 Completed the TensorFlow Developer Professional Certificate by Deeplearning.ai on Coursera.
@@ -9,6 +10,7 @@ I am currently taking my **Bachelor Degree in Statistics with Minor in Computer 
 - ⛳ My current short term goal is to create at least 3 more original iOS side project and start my own blog by the end of this year (2021). 
 - ⛳️ My long term goal would be having a career in tech industry and help more people to start planning their goals and make progress towards their dreams.
 - 📫 How to reach me: my [LinkedIn profile](https://www.linkedin.com/in/boon-kit-gan-64349b164/)
+- [My Portfolio Site](https://ganthology.github.io/ray-portfolio-v1/)
 
 Goals Achieved:
 - Getting a tech internship for my 2021 summer break ✅
