@@ -1,19 +1,20 @@
-### Hello there, I am Ray (Boon Kit) 😊
-I am currently taking my **Bachelor Degree in Statistics with Minor in Computer Science** at the Universiti Putra Malaysia.
-- 👨‍💻 Currently a web developer intern at **Speedhome.com**.
-- 👨‍ Looking for full time position in Web (React) and Mobile (React Native)
-- 🤓 I enjoy reading and challenge myself to learn new skills
-- 🌱 My focus is in *iOS Development*, *Mobile Development* and *Software Engineering*
-- 🌱 Completed the TensorFlow Developer Professional Certificate by Deeplearning.ai on Coursera.
-- 🐣 I can code in Swift, Python, Ruby, Java, C, HTML and Javascript.
+### Hello there, I am Ray 😊
+I am currently a junior software engineer (full-stack) at **Mindworks Interactive**.
+- 👨‍💻 I'm taking my **Bachelor Degree in Statistics with Minor in Computer Science** at the Universiti Putra Malaysia.
+- 🤓 I enjoy reading and challenge myself to learn new skills.
+- 🌱 My focus is in *Web Development*, *Mobile Development* and *Software Engineering*
+- 🐣 I can code in TypeScript/Javascript and frameworks like React.js, NextJS, NestJS and more.
 - 🐣 I have some basic skills in HTML, CSS, Javascript, Java, C, SQL.
-- ⛳ My current short term goal is to create at least 3 more original iOS side project and start my own blog by the end of this year (2021). 
 - ⛳️ My long term goal would be having a career in tech industry and help more people to start planning their goals and make progress towards their dreams.
 - 📫 How to reach me: my [LinkedIn profile](https://www.linkedin.com/in/boon-kit-gan-64349b164/)
 - [My Portfolio Site](https://ganthology.github.io/ray-portfolio-v1/)
 
 Goals Achieved:
+- Start a tech club for my university in 2021 ✅
 - Getting a tech internship for my 2021 summer break ✅
+- Working as an intern at a startup in 2022 ✅
+- Represented Malaysia at an international hackathon in 2022 ✅
+- Working as a full-time software engineer in 2022 ✅
 
 
 ### Here's my Github Stats
