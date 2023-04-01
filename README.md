@@ -1,11 +1,10 @@
 ### Hello there, I am Ray 😊
-I am currently a junior software engineer (full-stack) at **Mindworks Interactive**.
+I am currently a Software engineer (full-stack) at **Oyen Insurance**, the first of its kind, a **pet-insurance startup** based in **Kuala Lumpur, Malaysia**.
 - 👨‍💻 I'm taking my **Bachelor Degree in Statistics with Minor in Computer Science** at the Universiti Putra Malaysia.
-- 🤓 I enjoy reading and challenge myself to learn new skills.
+- 🤓 I enjoy reading, building and exploring new domains.
 - 🌱 My focus is in *Web Development*, *Mobile Development* and *Software Engineering*
 - 🐣 I can code in TypeScript/Javascript and frameworks like React.js, NextJS, NestJS and more.
-- 🐣 I have some basic skills in HTML, CSS, Javascript, Java, C, SQL.
-- ⛳️ My long term goal would be having a career in tech industry and help more people to start planning their goals and make progress towards their dreams.
+- ⛳️ My long term goal would be expanding my impact, improving my technical capabilities and growing others in the tech industry.
 - 📫 How to reach me: my [LinkedIn profile](https://www.linkedin.com/in/boon-kit-gan-64349b164/)
 - [My Portfolio Site](https://ganthology.github.io/ray-portfolio-v1/)
 
@@ -15,6 +14,8 @@ Goals Achieved:
 - Working as an intern at a startup in 2022 ✅
 - Represented Malaysia at an international hackathon in 2022 ✅
 - Working as a full-time software engineer in 2022 ✅
+- Leading a small team of developers in late 2022 ✅
+- Joining an early stage startup as a full-stack engineer (mid lv) in early 2023 ✅
 
 
 ### Here's my Github Stats
