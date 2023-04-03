@@ -15,7 +15,7 @@ Goals Achieved:
 - Represented Malaysia at an international hackathon in 2022 ✅
 - Working as a full-time software engineer in 2022 ✅
 - Leading a small team of developers in late 2022 ✅
-- Joining an early stage startup as a full-stack engineer (mid lv) in early 2023 ✅
+- Joining an early stage startup as a full-stack engineer in early 2023 ✅
 
 
 ### Here's my Github Stats
