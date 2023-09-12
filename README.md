@@ -18,9 +18,11 @@ Goals Achieved:
 
 
 ### Here's my Github Stats
-![Boon Kit's github stats](https://github-readme-stats.vercel.app/api?username=Ganthology&show_icons=true)
+![Boon Kit's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganthology)
 ### Here are the top languages that I used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganthology)](https://github.com/Ganthology/github-readme-stats)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ganthology)
+
+*I'm a TypeScript wizard 🧙‍♀️*
 
 <!--
 **Ganthology/Ganthology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
