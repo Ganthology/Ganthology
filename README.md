@@ -1,14 +1,25 @@
 ### Hello there, I am Ray 😊
-I am currently a Software engineer (full-stack) at **Oyen Insurance**, the first of its kind, a **pet-insurance startup** based in **Kuala Lumpur, Malaysia**.
-- 🛠️ I like building product at a fast paced, high growth environment/startup.
+I am currently a **Software engineer (full-stack)** at **Oyen Insurance**, the first of its kind, a **pet-insurance startup** based in **Kuala Lumpur, Malaysia**.
+- 🛠️ I enjoy **building product** at a fast paced, high growth environment/startup.
 - 🤓 I read articles, keep myself up to date with the industry, and always look to deepen my domain expertise.
 - 🌱 My focus is in *Web Development*, *Mobile Development* and *Software Engineering*
 - 👨‍💻 **Bachelor Degree in Statistics with Minor in Computer Science** at the Universiti Putra Malaysia.
 - 🐣 I can code in TypeScript/Javascript, Python and frameworks like NextJS, Django and more.
 - ⛳️ My long term goal would be expanding my impact, improving my technical capabilities and growing others in the tech industry.
-- 📫 How to reach me: my [LinkedIn profile](https://www.linkedin.com/in/boon-kit-gan-64349b164/)
+- 📫 How to reach me: my [LinkedIn profile](https://www.linkedin.com/in/rgbk/)
 
-Goals Achieved:
+🏹 **Domains that I'm exploring and deepening**:
+  - Frontend (Great UX, Micro-interactions, Animations, Design System)
+  - Backend (System Design, Scalable System, Availability)
+  - DevOps/Cloud (AWS, CI/CD, Docker, Kubernetes)
+  - Database
+  - Web3
+  - Fintech
+  - Insurtech
+  - Dev Toolings
+  - Open Source
+
+**Goals Achieved**:
 - Start a tech club for my university in 2021 ✅
 - Getting a tech internship for my 2021 summer break ✅
 - Working as an intern at a startup in 2022 ✅
@@ -16,6 +27,7 @@ Goals Achieved:
 - Working as a full-time software engineer in 2022 ✅
 - Leading a small team of developers in late 2022 ✅
 - Joining an early stage startup as a full-stack engineer in early 2023 ✅
+- Led multiple high-impact projects in the early stage startup 2023 - 2024 ✅
 
 
 ### Here's my Github Stats
