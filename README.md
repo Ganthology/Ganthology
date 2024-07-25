@@ -1,5 +1,5 @@
 ### Hello there, I am Ray 😊
-I am currently a **Software engineer (full-stack)** at **Oyen Insurance**, the first of its kind, a **pet-insurance startup** based in **Kuala Lumpur, Malaysia**.
+I am currently a **Senior Software engineer (full-stack)** at **Oyen Insurance**, the first of its kind, a **pet-insurance startup** based in **Kuala Lumpur, Malaysia**.
 - 🛠️ I enjoy **building product** at a fast paced, high growth environment/startup.
 - 🤓 I read articles, keep myself up to date with the industry, and always look to deepen my domain expertise.
 - 🌱 My focus is in *Web Development*, *Mobile Development* and *Software Engineering*
