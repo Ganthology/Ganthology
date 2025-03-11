@@ -12,7 +12,7 @@
 - first tech `internship` 2021 summer break ✅
 - startup `internship` 2022 ✅
 - international `hackathon` 2022 ✅
-- `full-time software engineer` 2022 ✅
+- `full-time software engineer` mid 2022 ✅
 - leading small dev team late 2022 ✅
 - `early stage startup engineer` early 2023 ✅
 - build `products` that ship 2023 - 2024 ✅
